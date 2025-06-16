@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+    nav{
+            
+            background-color: rgb(181, 32, 189);
+            color: rgb(95, 244, 55);
+            padding : 15px;
+            
+            
+
+        }
+        
+        
+
+
+        li,ul,h3,h1{
+            display: inline;
+            margin: 7px; 
+              
+        }
+
+       
+        ul{
+            margin-left: 60%;
+            
+            
+        }
+
+        li{
+            color: #eaff01;
+            cursor: pointer;
+            padding-bottom: 5px;
+        }
+
+        li:hover{
+            color: rgb(0, 170, 255);
+        }
+
+        input{
+            width: 60%;
+            padding: 15px;
+           
+                
+        }
+
+        .searchbar{
+
+            padding: 50px;
+            text-align: center;
+           
+            
+            
+           
+        }
+
+        
+
+        .box,img{
+             border-color: black;
+             border-width: 2px;
+             border-style: solid;
+             display: inline-block;
+             width: 220px;
+
+        }    
+
+
+        .box1,img{
+             border-color: black;
+             border-width: 2px;
+             border-style: solid;
+             display: inline-block;
+             width: 220px;
+             
+             
+
+        }    
+
+
+        .box2,img{
+             border-color: black;
+             border-width: 2px;
+             border-style: solid;
+             display: inline-block;
+             width: 220px;
+             
+
+        }    
+
+        .box1{
+            margin-top: 10px;
+            border-top: -40px;
+            height: 320px;
+            
+        }
+
+        img{
+            height: 220px;
+        }
+
+        .box:hover{
+            background-color: rgb(181, 32, 189);
+            color: yellow
+        }
+
+        .box1:hover{
+            background-color: rgb(181, 32, 189);
+            color: yellow
+        }
+
+        .box2:hover{
+            background-color: rgb(174, 101, 177);
+            color: yellow
+        }
+
+        .product{
+            text-align: center;
+        }
+
+        .about{
+            color: black;
+            text-align: center;
+            margin-top: 20px;
+        }
+       
+       .ab{
+        display: inline;
+        color: rgb(255, 0, 85);
+       } 
+
+      .para{
+                color: rgb(14, 0, 124)   ;
+      } 
+
+      .con{
+         padding-bottom: 17px;
+         color: #eaff01;
+      }
+        
+
+        
+
+        .contact{
+            text-align: center;
+            margin-top: 28px;
+            background-color: rgb(100, 42, 103);
+            color: white;
+            padding-top: 20px;
+            padding-bottom: 30px;
+            
+        }
+
+        .socialme{
+            padding-top: 20px;
+        }
+
+
+
+        
+
+    
+        
+        
+
+        
+        
+        
